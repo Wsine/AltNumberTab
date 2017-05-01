@@ -1,0 +1,32 @@
+{
+    "name": "AltNumberTab",
+    "version": "0.1.0",
+    "description": "Switch tab with alt key",
+    "page_action": {
+        "default_icon": "icon.png",
+        "default_title": "Alt Number Tab"
+    },
+    "background": {
+        "persistent": true,
+        "scripts": ["background.js"]
+    },
+    "commands": {
+        "tab-1": {
+            "suggested_key": {"default": "Alt+1"},
+            "description": "Switch Tab 1"
+        },
+        "tab-2": {
+            "suggested_key": {"default": "Alt+2"},
+            "description": "Switch Tab 2"
+        },
+        "tab-3": {
+            "suggested_key": {"default": "Alt+3"},
+            "description": "Switch Tab 3"
+        },
+        "tab-4": {
+            "suggested_key": {"default": "Alt+4"},
+            "description": "Switch Tab 4"
+        }
+    },
+    "manifest_version": 2
+}
