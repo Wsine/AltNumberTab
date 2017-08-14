@@ -26,6 +26,21 @@
         "tab-4": {
             "suggested_key": {"default": "Alt+4"},
             "description": "Switch Tab 4"
+        },
+        "tab-5": {
+            "description": "Switch Tab 5"
+        },
+        "tab-6": {
+            "description": "Switch Tab 6"
+        },
+        "tab-7": {
+            "description": "Switch Tab 7"
+        },
+        "tab-8": {
+            "description": "Switch Tab 8"
+        },
+        "tab-9": {
+            "description": "Switch Tab 9"
         }
     },
     "manifest_version": 2
