@@ -41,6 +41,9 @@
         },
         "tab-9": {
             "description": "Switch Tab 9"
+        },
+        "tab-0": {
+            "description": "Switch Last Tab"
         }
     },
     "manifest_version": 2
